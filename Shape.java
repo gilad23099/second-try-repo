@@ -15,4 +15,7 @@ public abstract class Shape {
         this.y=y;
     }
 
+    public abstract double getRadious();
+
+    public abstract double getCircumference();
 }
