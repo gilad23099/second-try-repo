@@ -9,4 +9,6 @@ public abstract class Shape {
         return this.y;
     }
     public abstract double getRadious();
+
+    public abstract double getCircumference();
 }
